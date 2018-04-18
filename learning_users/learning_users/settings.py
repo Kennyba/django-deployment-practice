@@ -28,7 +28,7 @@ SECRET_KEY = '(16&i3ci4p*l^2qvzhl5r&z@8j+3c5l*$4mb##can0qe31xc4s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kenba.pythonanywhere.com']
 
 
 # Application definition
